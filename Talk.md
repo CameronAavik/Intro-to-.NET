@@ -13,3 +13,4 @@ dotnet run -p .\HelloWorld\
 ```
 dotnet .\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
 ```
+4. Walk through HashMap implementation
