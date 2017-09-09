@@ -18,12 +18,10 @@ namespace HashMap
             { 
                 get 
                 {
-                    // this getter just returns this private variable 
                     return _key;
                 } 
                 set
                 {
-                    // this setter just sets the value, however we could do anything here and change it later
                     _key = value;
                 }
             }
