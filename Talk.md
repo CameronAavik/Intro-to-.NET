@@ -14,15 +14,4 @@ dotnet run -p .\HelloWorld\
 dotnet .\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
 ```
 4. Walk through HashMap implementation
-
-Features left to cover:
-* Go through C# types: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables
-  * Nullable types
-  * Tuples
-  * Enums
-* Expressions
-  * Null coalescing
-  * is/as
-* Statements
-  * Switch pattern matching
-  * Linq
+5. Walk through OtherFeatures if there is time

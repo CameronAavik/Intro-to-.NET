@@ -40,6 +40,7 @@ namespace HashMap
         private List<Entry>[] _buckets;
 
         // Here you can set it such that the Count variable has a public getter and a private setter.
+        // We will use this to represent the number of items in the map. It is defined later.
         public int Count { get; private set; }
 
         // constructor, can optionally take in number of buckets to use
